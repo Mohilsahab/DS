@@ -1,6 +1,7 @@
-package src.test;
+package src;
 
-public class Test3 {
+public class Test {
     public static void main(String[] args) {
+
     }
 }
